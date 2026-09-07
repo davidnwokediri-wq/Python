@@ -1,6 +1,6 @@
 Python for Scientific Computing & Chemistry
 
-Welcome to my Python learning and project repository.
+Welcome to my Python and project repository.
 
 This repository documents my journey of developing Python programming and scientific computing skills for applications in chemistry, data analysis, computational chemistry, and molecular simulation.
 
